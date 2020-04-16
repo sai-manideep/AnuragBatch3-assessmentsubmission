@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("springBoot Backend app");
+        System.out.println(" welcome to Angualr integartion ");
     }
 }
